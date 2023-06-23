@@ -21,8 +21,8 @@ jobs:
           project: sheer12/django_deployment_excercise
           stage: main
           yaml: >
-            name: snulion-week12-django
-
+            name: snulion-week12-deployment
+            
             app: python@3.9
 
             options:
